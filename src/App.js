@@ -8,6 +8,7 @@ function App() {
     <div>
       <Article />
       <Comment />
+      <About />
     </div>
   );
 }
